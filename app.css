@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    background-color: darkgrey;
+    padding-top: 20px;
+}
+
+div {
+    border-color: black;
+    border-style: solid;
+    margin: 0 auto;
+    width: 75%;
+    background-color: white;
+}
+
+h1, h3 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+p, form {
+    background-color: white;
+    padding: 5%;
+}
